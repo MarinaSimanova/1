@@ -1,0 +1,7 @@
+[
+  "test_pet_friends.py::test_add_new_pet_with_valid_data",
+  "test_pet_friends.py::test_get_all_pets_with_valid_key",
+  "test_pet_friends.py::test_get_api_key_for_valid_user",
+  "test_pet_friends.py::test_successful_delete_self_pet",
+  "test_pet_friends.py::test_successful_update_self_pet_info"
+]
